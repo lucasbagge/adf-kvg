@@ -1,0 +1,9 @@
+{
+	"name": "StatGetStartedDF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d97f8891-377e-4bc6-8a10-560b601ec671",
+		"tenantId": "52c45313-3bb1-43ef-8124-8c8afc9e779c"
+	}
+}
